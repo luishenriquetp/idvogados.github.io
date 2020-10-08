@@ -1,5 +1,6 @@
 # Idvogados
 
+<<<<<<< HEAD
 ## Features
 
 - [Live Search](https://github.com/thiagorossener/jekflix-template/wiki/Features#live-search)
@@ -153,5 +154,40 @@ Use the [Front Matter properties](https://github.com/thiagorossener/jekflix-temp
 > **Note:** In the case you're cloning this repo, you can use the available [script](https://github.com/thiagorossener/jekflix-template/wiki/post#creating-a-post) to generate posts automatically.
 
 ## License
+=======
+![idvogados logo](https://github.com/mm44m6/idvogados.github.io/blob/develop/Logo-idvogados-vermelho-01.svg)
 
-*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+Esse projeto, atualmente, utiliza a tecnologia [Jekyll](https://jekyllrb.com) e o template [Jekflix](https://github.com/thiagorossener/jekflix-template). Para realizar a configuração do seu ambiente, siga o passo-a-passo descrito na [documentação oficial do Jekyll](https://jekyllrb.com/docs/).
+
+## Rodando o projeto
+
+Para rodar o projeto, faça o clone do mesmo:
+
+````
+git clone https://github.com/idvogados/idvogados.github.io
+````
+
+Na raíz do projeto, rode o comando:
+
+````
+bundle install
+`````
+
+Após isso, rode:
+
+````
+bundle exec jekyll serve
+`````
+
+Seu projeto ficará disponivel no endereço http://localhost:4000/
+
+## Como contribuir
+
+Utilizamos o conceito de [gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow). 
+
+Faça um fork da branch develop e, ao terminar o trabalho, realize um pull request. 
+
+
+
+>>>>>>> 775d413392719bc014c3abcfafe6e850fba37ec2
+
